@@ -1,5 +1,5 @@
 /**
- *
+ * Rotate an array 90 degrees Clockwise
  * @param {number[][]} a
  * @returns {number[][]}
  */
